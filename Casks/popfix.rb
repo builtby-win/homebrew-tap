@@ -1,6 +1,6 @@
 cask "popfix" do
-  version "0.3.1"
-  sha256 "9a14bb5b40e6bc1202f5caecb1c352479ee1f67f5807ef0e1fd15de222a2ee37"
+  version "0.3.2"
+  sha256 "d3695663cfd7603155c895790a605d714261a6c9ab3a84d104fa69a25e3ba103"
 
   url "https://github.com/builtby-win/macos-pop-fix/releases/download/v#{version}/PopFix.zip"
   name "PopFix"
